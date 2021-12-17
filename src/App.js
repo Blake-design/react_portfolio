@@ -15,7 +15,7 @@ export default function App() {
         <div>
           <img
             className="photo"
-            src="assets/piano-BW-self.jpg"
+            src="react_portfolio/assets/piano-BW-self.jpg"
             alt="self portrait"
           />
         </div>

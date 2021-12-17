@@ -19,13 +19,17 @@ export default function nav() {
             className="nav-link"
             href="https://www.linkedin.com/in/blake-mccarty-75754a36/"
           >
-            <img src="/assets/LI-In-Bug.png" className="logos" alt="LinkedIn" />
+            <img
+              src="react_portfolio/assets/LI-In-Bug.png"
+              className="logos"
+              alt="LinkedIn"
+            />
           </a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="https://github.com/Blake-design">
             <img
-              src="/assets/GitHub-Mark-Light-120px-plus.png"
+              src="react_portfolio/assets/GitHub-Mark-Light-120px-plus.png"
               className="logos"
               alt="GitHub"
             />
