@@ -39,7 +39,7 @@ article:focus .portfolioP {
   right: 50px;
   font-size: 2rem;
   color: whitesmoke;
-  opacity: 0;
+  opacity: 0%;
   transition: 1s;
   letter-spacing: 1px;
 }
