@@ -1,0 +1,89 @@
+.slider {
+  position: relative;
+  height: 40em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-size: 4rem;
+  font-family: "Patua One", cursive;
+  color: #9c9c9c;
+}
+.card {
+  width: 18rem;
+  height: 29rem;
+}
+.card-img-top {
+  height: 40em;
+  width: auto;
+  object-fit: cover;
+}
+.left-arrow {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  z-index: 2;
+  height: 3em;
+  width: 3em;
+  color: white;
+  cursor: pointer;
+}
+.right-arrow {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: 2;
+  height: 3em;
+  width: 3em;
+  color: white;
+  cursor: pointer;
+}
+.activeCard {
+  position: absolute;
+  box-shadow: 0px 0px 50px whitesmoke;
+  z-index: 1;
+  align-items: center;
+  opacity: 100%;
+  transition: 1s;
+}
+
+.nextCard {
+  filter: blur(10px);
+  opacity: 30%;
+  transition: 2.5s;
+}
+.circleContainer {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 8%;
+  margin: 0%;
+  z-index: 2;
+  color: white;
+}
+.circle {
+  position: relative;
+  margin: 10px;
+  color: white;
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate3d(0, 0, 0, 0deg);
+    opacity: 100%;
+  }
+  50% {
+    opacity: 60%;
+  }
+  100% {
+    transform: rotate3d(0, 1, 0, 360deg);
+    opacity: 100%;
+  }
+}
+.card-title {
+  font-family: "Patua One", cursive;
+  color: whitesmoke;
+  font-size: 2rem;
+}

@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(0deg, black 0%, #5e5e5c 100%);
+}
+
+article {
+  margin-top: 10%;
+  width: auto;
+  padding: 1%;
+}
+
+article:hover .portfolioH3,
+article:focus .portfolioH3 {
+  top: 0px;
+  opacity: 20%;
+  transition: 1s;
+}
+article:hover .portfolioP,
+article:focus .portfolioP {
+  right: 0px;
+  opacity: 100%;
+  transition: 1s;
+}
+
+.portfolioH3 {
+  position: relative;
+  top: 25px;
+  font-family: "Patua One", cursive;
+  font-size: 3rem;
+  color: whitesmoke;
+  transition: 1s;
+}
+
+.portfolioP {
+  position: relative;
+  right: 50px;
+  font-size: 2rem;
+  color: whitesmoke;
+  opacity: 0;
+  transition: 1s;
+  letter-spacing: 1px;
+}
+
+.photo {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+b {
+  color: rgb(223, 242, 250);
+}
+.connect {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}

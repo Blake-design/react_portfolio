@@ -1,0 +1,11 @@
+.name {
+  font-family: "Monoton", cursive;
+  font-size: 6rem;
+  color: whitesmoke;
+  border-bottom: 5px solid whitesmoke;
+}
+@media only screen and (max-width: 600px) {
+  .name {
+    font-size: 4rem;
+  }
+}

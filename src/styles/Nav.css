@@ -1,0 +1,12 @@
+.logos {
+  display: flex;
+  width: 40px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
+.logos:hover,
+.logos:focus {
+  opacity: 50%;
+}
