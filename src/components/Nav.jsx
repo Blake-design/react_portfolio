@@ -9,7 +9,7 @@ export default function nav() {
           <a
             className="nav-link"
             aria-current="page"
-            href="/assets/Resume-Blake-McCarty.pdf"
+            href="react_portfolio/assets/Resume-Blake-McCarty.pdf"
           >
             Resume
           </a>
