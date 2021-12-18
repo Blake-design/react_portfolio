@@ -9,7 +9,7 @@ export default function nav() {
           <a
             className="nav-link"
             aria-current="page"
-            href="react_portfolio/assets/Resume-Blake-McCarty.pdf"
+            href={process.env.PUBLIC_URL + "/assets/Resume-Blake-McCarty.pdf"}
           >
             Resume
           </a>
@@ -20,7 +20,7 @@ export default function nav() {
             href="https://www.linkedin.com/in/blake-mccarty-75754a36/"
           >
             <img
-              src="react_portfolio/assets/LI-In-Bug.png"
+              src={process.env.PUBLIC_URL + "/assets/LI-In-Bug.png"}
               className="logos"
               alt="LinkedIn"
             />
@@ -29,7 +29,10 @@ export default function nav() {
         <li className="nav-item">
           <a className="nav-link" href="https://github.com/Blake-design">
             <img
-              src="react_portfolio/assets/GitHub-Mark-Light-120px-plus.png"
+              src={
+                process.env.PUBLIC_URL +
+                "/assets/GitHub-Mark-Light-120px-plus.png"
+              }
               className="logos"
               alt="GitHub"
             />
