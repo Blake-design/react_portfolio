@@ -15,7 +15,7 @@ export default function App() {
         <div>
           <img
             className="photo"
-            src={process.env.PUBLIC_URL + "/assets/piano-BW-self.jpg}"}
+            src={process.env.PUBLIC_URL + "/assets/piano-BW-self.jpg"}
             alt="self portrait"
           />
         </div>

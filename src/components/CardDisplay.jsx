@@ -43,7 +43,7 @@ const projects = [
     name: "Quiz Time",
     description:
       "A multiple choice quiz to test your knowledge of The IT Crowd ",
-    link: "https://blake-design.github.io/BlakeMcCarty_week_4_HW",
+    link: "https://blake-design.github.io/IT_Crowd_Quiz/",
     imageURL:
       process.env.PUBLIC_URL + "/assets/pexels-photo-356079-600-380.jpeg",
     alt: "Photo of a question mark written on a blackboard",
@@ -53,7 +53,7 @@ const projects = [
     id: 5,
     name: "Weather App",
     description: "A dynamic weather app built with 3rd party APIs",
-    link: "https://blake-design.github.io/BlakeMcCarty_week_4_HW",
+    link: "https://blake-design.github.io/Weather_App/",
     imageURL: process.env.PUBLIC_URL + "/assets/pexels-photo-2114014.jpeg",
     alt: "photo of clouds",
     CTA: "Click Here",
