@@ -27,12 +27,14 @@ export default function Card({ projects }) {
             >
               <div className="col" key={project.id}>
                 <div className="card text-center bg-black m-0">
-                  <img
-                    src={project.imageURL}
-                    className="card-img-top p-5"
-                    style={project.animate}
-                    alt={project.alt}
-                  />
+                  <div>
+                    <img
+                      src={project.imageURL}
+                      className=" card-img-top p-5"
+                      style={project.animate}
+                      alt={project.alt}
+                    />
+                  </div>
                   <div className="card-body">
                     <h5 className="card-title p-2 ">{project.name}</h5>
                     <p className="card-text text-white">

@@ -6,13 +6,13 @@
   align-items: center;
 }
 .title {
-  font-size: 4rem;
+  font-size: 4em;
   font-family: "Patua One", cursive;
   color: #9c9c9c;
 }
 .card {
-  width: 18rem;
-  height: 29rem;
+  width: 18em;
+  height: 29em;
 }
 .card-img-top {
   width: auto;
@@ -74,6 +74,7 @@
     opacity: 1;
   }
   50% {
+    transform: rotate3d(0, 1, 0, 180deg);
     opacity: 0.6;
   }
   100% {
