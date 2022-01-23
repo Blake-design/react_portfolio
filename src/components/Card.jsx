@@ -27,7 +27,7 @@ export default function Card({ projects }) {
             >
               <div className="col" key={project.id}>
                 <div className="card text-center bg-black m-0">
-                  <div>
+                  <div className="card-img-top">
                     <img
                       src={project.imageURL}
                       className=" card-img-top p-5"

@@ -15,7 +15,6 @@
   height: 29em;
 }
 .card-img-top {
-  width: auto;
   object-fit: cover;
 }
 .left-arrow {

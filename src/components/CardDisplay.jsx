@@ -4,6 +4,17 @@ import Card from "./Card";
 const projects = [
   {
     id: 1,
+    name: "Synapse",
+    description:
+      "Synapse is a data visualization app that maps your learning journey. It was built use MERN technology.",
+    link: "https://synapse-learning.herokuapp.com/",
+    imageURL: process.env.PUBLIC_URL + "/assets/splash.png",
+    alt: "Synapse Cover",
+
+    CTA: "Create Now",
+  },
+  {
+    id: 2,
     name: "Space EMS",
     description:
       "Space EMS is an Asteroids clone built using a MVC framework and P5.js.",
@@ -16,7 +27,7 @@ const projects = [
     CTA: "Play Now",
   },
   {
-    id: 2,
+    id: 3,
     name: "Game Finder",
     description:
       "Built with Pure CSS and Jquery, Game Finder utilizes 3rd party APIs to find popular games on sale.",
@@ -24,11 +35,11 @@ const projects = [
     imageURL:
       process.env.PUBLIC_URL +
       "/assets/pexels-francesco-ungaro-1670977-600-412.jpg",
-    alt: "Game Finder front page",
+    alt: "Game Finder",
     CTA: "Search Now",
   },
   {
-    id: 3,
+    id: 4,
     name: "Note Taker",
     description:
       "Built using Express.js, Note Taker, utilizes its own API to create a dynamic Notepad.",
@@ -39,7 +50,7 @@ const projects = [
     CTA: "Open",
   },
   {
-    id: 4,
+    id: 5,
     name: "Quiz Time",
     description:
       "A multiple choice quiz to test your knowledge of The IT Crowd ",
@@ -50,7 +61,7 @@ const projects = [
     CTA: "Test Me",
   },
   {
-    id: 5,
+    id: 6,
     name: "Weather App",
     description: "A dynamic weather app built with 3rd party APIs",
     link: "https://blake-design.github.io/Weather_App/",
