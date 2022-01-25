@@ -9,7 +9,7 @@ export default function nav() {
           <a
             className="nav-link"
             aria-current="page"
-            href={process.env.PUBLIC_URL + "/assets/Resume-Blake-McCarty.pdf"}
+            href={process.env.PUBLIC_URL + "/assets/Blake_McCarty_Resume.pdf"}
           >
             Resume
           </a>
