@@ -1,0 +1,57 @@
+.photo {
+  position: absolute;
+  left: -250px;
+  top: -160px;
+  border-radius: 50%;
+  border: 1rem solid #90c3c4;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.photo-border {
+  position: relative;
+
+  height: 585px;
+  padding: 0px;
+  z-index: 1;
+}
+
+.photo-border::before {
+  position: absolute;
+  content: "A";
+  font-family: "Monoton", sans-serif;
+  font-size: 600px;
+  line-height: 585px;
+
+  color: #4c6e6e;
+  top: 0px;
+  z-index: 0;
+}
+
+b {
+  color: rgb(168, 225, 249);
+}
+
+.text-above {
+  position: relative;
+  z-index: 2;
+}
+
+.bioH3 {
+  position: relative;
+
+  font-family: "Prompt", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  color: #cce2e2;
+  transition: 1s;
+}
+
+.bioP {
+  position: relative;
+
+  font-size: 2rem;
+  color: whitesmoke;
+  transition: 1s;
+  letter-spacing: 1px;
+}

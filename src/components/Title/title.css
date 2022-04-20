@@ -1,0 +1,14 @@
+.portfolioH3 {
+  font-family: "Prompt", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  color: #90c3c4;
+  transition: 1s;
+}
+
+.portfolioP {
+  font-size: 2rem;
+  color: #90c3c4;
+  transition: 1s;
+  letter-spacing: 1px;
+}

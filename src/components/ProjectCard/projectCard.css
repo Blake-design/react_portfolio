@@ -1,0 +1,39 @@
+.card-custom {
+  width: 18em;
+  height: 29em;
+  text-align: center;
+}
+.card-img-top {
+  object-fit: cover;
+  height: 50%;
+}
+.card-img-top ::before {
+  background-color: #dee5e6;
+}
+
+.card-body {
+  background-color: #dee5e6;
+}
+.card-title {
+  font-family: "Patua One", serif;
+  color: #4c6e6e;
+  font-size: 2rem;
+}
+.cta-button {
+  background-color: #c490c3;
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate3d(0, 0, 0, 0deg);
+    opacity: 1;
+  }
+  50% {
+    transform: rotate3d(0, 1, 0, 180deg);
+    opacity: 0.6;
+  }
+  100% {
+    transform: rotate3d(0, 1, 0, 360deg);
+    opacity: 1;
+  }
+}

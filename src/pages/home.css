@@ -1,0 +1,21 @@
+.portfolio-section {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(144, 169, 196, 1) 100%
+  );
+  margin: 0;
+}
+
+.bio-section {
+  margin: 0;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-color: #90a9c4;
+}
+
+article {
+  margin: 0%;
+  width: auto;
+}
