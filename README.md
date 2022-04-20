@@ -10,7 +10,7 @@ So as you probably gathered from the title, my name is Blake McCarty. I am a Ful
 
 ## What's Inside?
 
-My Portfolio website is a React App that showcases some of my lastest works. Just a simple one page site that has links to various ways to contact me and a carousel that holds links and descriptions to deployed apps.
+My Portfolio website is a React App that showcases some of my lastest works. It is a simple one page site that has links to various ways to contact me. It was build using react boostrap and
 
 ## What programming languages do you work with?
 
