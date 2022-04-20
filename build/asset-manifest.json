@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c662a639.css",
-    "main.js": "/static/js/main.c47905de.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/IMG_2443.JPG": "/static/media/IMG_2443.a251ba6b7d7a3d188dcd.JPG",
-    "static/media/pexels-francesco-ungaro-1670977-600-412.jpg": "/static/media/pexels-francesco-ungaro-1670977-600-412.de88098a0d64961d847a.jpg",
-    "static/media/piano-BW-self.jpg": "/static/media/piano-BW-self.b17623808bbb588e38ba.jpg",
-    "static/media/Blake_McCarty_Resume.pdf": "/static/media/Blake_McCarty_Resume.1ea755d53312700f79d1.pdf",
-    "static/media/pexels-photo-356079-600-380.jpeg": "/static/media/pexels-photo-356079-600-380.f53eaa28fd441f3dc801.jpeg",
-    "static/media/splash.png": "/static/media/splash.04804da1e7a6db0befd4.png",
-    "static/media/pexels-photo-2114014.jpeg": "/static/media/pexels-photo-2114014.0608d29051a906b10d66.jpeg",
-    "static/media/pexels-pixabay-236111-300-200.jpg": "/static/media/pexels-pixabay-236111-300-200.e1a17018317125ba6a7d.jpg",
-    "static/media/spaceShip.svg": "/static/media/spaceShip.0ab4b3692d6655c42b2d.svg",
-    "index.html": "/index.html",
-    "main.c662a639.css.map": "/static/css/main.c662a639.css.map",
-    "main.c47905de.js.map": "/static/js/main.c47905de.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react_portfolio/static/css/main.c662a639.css",
+    "main.js": "/react_portfolio/static/js/main.48afa113.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react_portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/IMG_2443.JPG": "/react_portfolio/static/media/IMG_2443.a251ba6b7d7a3d188dcd.JPG",
+    "static/media/pexels-francesco-ungaro-1670977-600-412.jpg": "/react_portfolio/static/media/pexels-francesco-ungaro-1670977-600-412.de88098a0d64961d847a.jpg",
+    "static/media/piano-BW-self.jpg": "/react_portfolio/static/media/piano-BW-self.b17623808bbb588e38ba.jpg",
+    "static/media/Blake_McCarty_Resume.pdf": "/react_portfolio/static/media/Blake_McCarty_Resume.1ea755d53312700f79d1.pdf",
+    "static/media/pexels-photo-356079-600-380.jpeg": "/react_portfolio/static/media/pexels-photo-356079-600-380.f53eaa28fd441f3dc801.jpeg",
+    "static/media/splash.png": "/react_portfolio/static/media/splash.04804da1e7a6db0befd4.png",
+    "static/media/pexels-photo-2114014.jpeg": "/react_portfolio/static/media/pexels-photo-2114014.0608d29051a906b10d66.jpeg",
+    "static/media/pexels-pixabay-236111-300-200.jpg": "/react_portfolio/static/media/pexels-pixabay-236111-300-200.e1a17018317125ba6a7d.jpg",
+    "static/media/spaceShip.svg": "/react_portfolio/static/media/spaceShip.0ab4b3692d6655c42b2d.svg",
+    "index.html": "/react_portfolio/index.html",
+    "main.c662a639.css.map": "/react_portfolio/static/css/main.c662a639.css.map",
+    "main.48afa113.js.map": "/react_portfolio/static/js/main.48afa113.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react_portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c662a639.css",
-    "static/js/main.c47905de.js"
+    "static/js/main.48afa113.js"
   ]
 }
