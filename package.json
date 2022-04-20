@@ -2,7 +2,7 @@
   "name": "react_portfolio",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://www.co-theory.com",
+  "homepage": "https://blake-design.github.io/react_portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
