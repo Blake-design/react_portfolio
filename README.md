@@ -1,6 +1,6 @@
 # Blake McCarty Profile Website
 
-Welcome to repo for my portfoliio!
+Welcome to the repo for my portfoliio!
 
 Here is a deployed link - www.co-theory.com
 
@@ -10,7 +10,7 @@ So as you probably gathered from the title, my name is Blake McCarty. I am a Ful
 
 ## What's Inside?
 
-My Portfolio website is a React App that showcases some of my lastest works. It is a simple one page site that has links to various ways to contact me. It was build using react boostrap and
+My Portfolio website is a React App that showcases some of my lastest works. It is a simple one page site that has links to various ways to contact me. It was build using react boostrap.
 
 ## What programming languages do you work with?
 
