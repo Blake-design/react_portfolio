@@ -9,6 +9,16 @@
   "projects": [
     {
       "id": 1,
+      "name": "Weather App",
+      "desc": "A React weather app built with 3rd party APIs, D3, Local Storage, and Express",
+      "link": "https://may5-react-weather.herokuapp.com/",
+      "imageUrl": "pexels-photo-2114014.jpeg",
+      "alt": "clouds",
+      "CTA": "Click Here",
+      "featured": true
+    },
+    {
+      "id": 2,
       "name": "Synapse",
       "desc": "Synapse is a data visualization app that maps your learning journey. It was built using MERN technology.",
       "link": "https://synapse-learning.herokuapp.com/",
@@ -18,7 +28,7 @@
       "featured": true
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Space EMS",
       "desc": "Space EMS is an Asteroids clone built using a MVC framework and P5.js.",
       "link": "https://space-ems.herokuapp.com/",
@@ -38,7 +48,7 @@
       "imageUrl": "pexels-francesco-ungaro-1670977-600-412.jpg",
       "alt": "Game Finder",
       "CTA": "Search Now",
-      "featured": true
+      "featured": false
     },
     {
       "id": 4,
@@ -46,7 +56,7 @@
       "desc": "Built using Express.js, Note Taker, utilizes its own API to create a dynamic Notepad.",
       "link": "https://blakes-notetaker.herokuapp.com/",
       "imageUrl": "pexels-pixabay-236111-300-200.jpg",
-      "alt": "Photo of a note pad",
+      "alt": "note pad",
       "CTA": "Open",
       "featured": false
     },
@@ -56,18 +66,8 @@
       "desc": "A multiple choice quiz to test your knowledge of The IT Crowd ",
       "link": "https://blake-design.github.io/IT_Crowd_Quiz/",
       "imageUrl": "pexels-photo-356079-600-380.jpeg",
-      "alt": "Photo of a question mark written on a blackboard",
+      "alt": "question mark written on a blackboard",
       "CTA": "Test Me",
-      "featured": false
-    },
-    {
-      "id": 6,
-      "name": "Weather App",
-      "desc": "A dynamic weather app built with 3rd party APIs",
-      "link": "https://blake-design.github.io/Weather_App/",
-      "imageUrl": "pexels-photo-2114014.jpeg",
-      "alt": "photo of clouds",
-      "CTA": "Click Here",
       "featured": false
     }
   ]
