@@ -2,7 +2,7 @@
 
 Welcome to repo for my portfoliio!
 
-Here is a deployed link - https://blake-design.github.io/react_portfolio/
+Here is a deployed link - www.co-theory.com
 
 ## About Me
 
