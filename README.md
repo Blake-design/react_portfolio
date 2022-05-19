@@ -14,4 +14,4 @@ My Portfolio website is a React App that showcases some of my lastest works. It 
 
 ## What programming languages do you work with?
 
-I'm a Javascript developer and have spent the last year exploring all the supplemental / auxillary languages that intials. I prefer to work in React using MERN stack (Mongo, Express, React, and Node) and I have apps built using Express Handlebars and MySQL as well. Frontend development is my jam, as I prefer the immediate satifaction of seeing a visual representaion of code. Beacuse of that I spend my freetime playing around in p5.js and D3. Checkout my other repos and you might find what I'm currently learning.
+I'm a Javascript developer and have spent the last year exploring all the supplemental / auxillary languages that entails. I prefer to work in React using MERN stack (Mongo, Express, React, and Node) and I have apps built using Express Handlebars and MySQL as well. Frontend development is my jam, as I prefer the immediate satifaction of seeing a visual representaion of code. Beacuse of that I spend my freetime playing around in p5.js and D3. Checkout my other repos and you might find what I'm currently learning.
