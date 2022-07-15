@@ -9,6 +9,16 @@
   "projects": [
     {
       "id": 1,
+      "name": "Learning App",
+      "desc": "A MERN stack learning app made with typescript and graphQL-ws.",
+      "link": "https://learning-app-games.herokuapp.com/",
+      "imageUrl": "pexels-sharon-mccutcheon-1148496.jpeg",
+      "alt": "colorful chalk",
+      "CTA": "Learn More",
+      "featured": true
+    },
+    {
+      "id": 2,
       "name": "Weather App",
       "desc": "A React weather app built with 3rd party APIs, D3, Local Storage, and Express",
       "link": "https://may5-react-weather.herokuapp.com/",
@@ -17,16 +27,7 @@
       "CTA": "Click Here",
       "featured": true
     },
-    {
-      "id": 2,
-      "name": "Synapse",
-      "desc": "Synapse is a data visualization app that maps your learning journey. It was built using MERN technology.",
-      "link": "https://synapse-learning.herokuapp.com/",
-      "imageUrl": "splash.png",
-      "alt": "Synapse Cover",
-      "CTA": "Create Now",
-      "featured": true
-    },
+
     {
       "id": 3,
       "name": "Space EMS",

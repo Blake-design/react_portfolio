@@ -5,7 +5,6 @@ import Col from "react-bootstrap/Col";
 import Dropdown from "react-bootstrap/Dropdown";
 import DropdownButton from "react-bootstrap/DropdownButton";
 import ProjectCard from "../ProjectCard/ProjectCard";
-import "./projectGrid.css";
 
 const ProjectGrid = ({ projects }) => {
   return (
